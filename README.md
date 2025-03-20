@@ -53,6 +53,10 @@ All contributions are welcome, from bug fixes to performance improvements.
 
 ---
 
+For Explanation, go to https://github.com/Omm2005/degrees/blob/main/explanation.md
+
+---
+
 ## 📜 License  
 This project is licensed under the **MIT License**.
 
